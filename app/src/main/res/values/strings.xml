@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fleet</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="company_name">Company Name</string>
+    <string name="about">About</string>
+    <string name="phone">Phone No.</string>
+    <string name="contin">Continue</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="signin">Sign In</string>
+    <string name="signin_msg">Hi There! Nice to see you again.</string>
+    <string name="social_option_msg">or use one of your social profiles</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="signup">Sign Up</string>
+    <string name="mob_code">+61</string>
+    <string name="have_account">Have an Account?</string>
+    <string name="name">Name</string>
+    <string name="reports">Reports</string>
+    <string name="track">Track</string>
+    <string name="available">Available</string>
+    <string name="signin_error">Invalid Credentials</string>
+    <string name="total_tasks">Total Tasks</string>
+    <string name="task_completed">Tasks Completed</string>
+    <string name="last_task_assigned">Last Task Assigned</string>
+    <string name="all_employees">All Employees</string>
+</resources>
